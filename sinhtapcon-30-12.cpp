@@ -12,7 +12,7 @@ void sinh(int n,int a[],bool &ok) {
 int main() {
 	int n;
 	cin>>n;
-	int a[n]={0};
+	int a[n];
 	int i=n;
 	bool ok=true;
 	while(ok) {
